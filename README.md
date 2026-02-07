@@ -15,8 +15,8 @@ Small Python tools that report your primary monitor’s resolution and total pix
 ## Setup
 
 ```bash
-git clone https://github.com/alwayschangingusernames/screen_pos.git
-cd screen_pos
+git clone https://github.com/alwayschangingusernames/screen_wxh.git
+cd screen_wxh
 pip install -r requirements.txt
 ```
 
